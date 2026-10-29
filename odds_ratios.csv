@@ -1,0 +1,19 @@
+outcome,model,term,n,OR,CI_low,CI_high
+Diabetes,Crude,overweight,5624,1.92,1.52,2.42
+Diabetes,Crude,obesity,5624,4.03,3.26,4.98
+Diabetes,Adjusted for age and sex,overweight,5624,1.81,1.43,2.3
+Diabetes,Adjusted for age and sex,obesity,5624,4.3,3.46,5.35
+Diabetes,Adjusted for age and sex,age_per10,5624,1.57,1.49,1.65
+Diabetes,Adjusted for age and sex,female,5624,0.8,0.69,0.93
+Diabetes,"Adjusted, BMI per 5 units",bmi_per5,5624,1.49,1.42,1.57
+Diabetes,"Adjusted, BMI per 5 units",age_per10,5624,1.61,1.53,1.7
+Diabetes,"Adjusted, BMI per 5 units",female,5624,0.75,0.65,0.87
+High measured blood pressure,Crude,overweight,5689,1.13,0.94,1.35
+High measured blood pressure,Crude,obesity,5689,1.28,1.08,1.51
+High measured blood pressure,Adjusted for age and sex,overweight,5689,1.05,0.87,1.26
+High measured blood pressure,Adjusted for age and sex,obesity,5689,1.25,1.05,1.49
+High measured blood pressure,Adjusted for age and sex,age_per10,5689,1.51,1.44,1.58
+High measured blood pressure,Adjusted for age and sex,female,5689,1.01,0.88,1.16
+High measured blood pressure,"Adjusted, BMI per 5 units",bmi_per5,5689,1.11,1.05,1.16
+High measured blood pressure,"Adjusted, BMI per 5 units",age_per10,5689,1.52,1.45,1.59
+High measured blood pressure,"Adjusted, BMI per 5 units",female,5689,1.0,0.87,1.15

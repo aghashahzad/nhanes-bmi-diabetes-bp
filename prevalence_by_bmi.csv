@@ -1,0 +1,7 @@
+outcome,bmi_category,n,prevalence_percent
+Diabetes,Normal,1432,8.0
+Diabetes,Overweight,1853,14.4
+Diabetes,Obesity,2339,26.0
+High measured blood pressure,Normal,1470,16.7
+High measured blood pressure,Overweight,1858,18.5
+High measured blood pressure,Obesity,2361,20.4
